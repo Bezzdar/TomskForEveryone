@@ -74,4 +74,28 @@
         tools:layout_editor_absoluteX="7dp"
         tools:layout_editor_absoluteY="975dp" />
 
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="399dp"
+        android:layout_height="303dp"
+        app:srcCompat="@drawable/PetHorse"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="1148dp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="363dp"
+        android:layout_height="233dp"
+        app:srcCompat="@drawable/FeedUrPet"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="1053dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="370dp"
+        android:layout_height="563dp"
+        app:srcCompat="@drawable/Group49"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="1378dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
